@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Sakshya Patel<br>I am a software developer
+Hi my name is Sakshya Patel<br>Baaki mil ke batata hu
 
 
 ## 🌐 Socials:
