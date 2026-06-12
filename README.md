@@ -215,7 +215,7 @@ Lead technical strategy, team structure, and project delivery for the university
 
 ---
 
-## `$ cat ./achievements.md`
+## `$ cat ./projects.md`
 
 <div align="center">
 
