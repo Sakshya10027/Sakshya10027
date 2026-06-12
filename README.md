@@ -47,7 +47,7 @@ university  : VIT Bhopal University — B.Tech Computer Science
 location    : Lucknow / Bhopal, India
 ```
 
-I engineer full-stack systems that sit at the intersection of performance, intelligence, and security. My work spans production-grade web applications, mobile-first platforms, behavioral biometric pipelines, and anomaly-detection ML systems — built with the precision of an engineer who cares equally about system architecture and end-user impact.
+I engineer full-stack systems that sit at the intersection of performance, intelligence, and security. My work spans production-grade web applications, mobile-first platforms, behavioral biometric pipelines, and anomaly-detection ML systems built with the precision of an engineer who cares equally about system architecture and end-user impact.
 
 As **Tech Lead** of VIT Bhopal's Virtual Reality & Gaming Club, I lead cross-functional technical teams across prototyping, R&D, and live deployments. My internship experience in front-end engineering has sharpened a product-first mindset — shipping interfaces that are not just functional, but measurably excellent.
 
