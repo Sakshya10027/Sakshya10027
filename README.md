@@ -234,23 +234,6 @@ Lead technical strategy, team structure, and project delivery for the university
 
 ---
 
-## `$ cat ./coding-profiles`
-
-<p align="center">
-  <a href="https://leetcode.com/Sakshya10027" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/Sakshya10027" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/Sakshya10027" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-5%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/Sakshya10027" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## `$ ./analytics --github`
