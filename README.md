@@ -91,23 +91,6 @@ I approach every system I build with three non-negotiables: **correctness at sca
 
 ---
 
-## `$ cat ./ai-ml-expertise.json`
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| Anomaly Detection | ████████░░ Advanced | Isolation Forest, statistical thresholding, mule account detection |
-| Behavioral Biometrics | ████████░░ Advanced | Keystroke dynamics, gyroscope telemetry, touch pressure profiling |
-| Supervised Learning | ███████░░░ Proficient | LightGBM, XGBoost, ensemble methods, Optuna hyperparameter tuning |
-| Fraud & Risk Modeling | ███████░░░ Proficient | Bank fraud pipelines, document forensics, transactional pattern analysis |
-| Computer Vision | ██████░░░░ Intermediate | Facial recognition (offline), DeepFace integration, React Native camera |
-| NLP & LLM Tooling | ██████░░░░ Intermediate | Prompt engineering, API integration, document intelligence |
-| ML Deployment | ███████░░░ Proficient | Streamlit Cloud, FastAPI inference endpoints, model versioning |
-| Data Engineering | ██████░░░░ Intermediate | Pipeline design, Kaggle competitions, feature engineering |
-
-</div>
-
 ---
 
 ## `$ ls ./featured-projects`
@@ -248,35 +231,6 @@ Lead technical strategy, team structure, and project delivery for the university
 </div>
 
 ---
-
-## `$ ls ./certifications`
-
-### Amazon Web Services
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL (IIT)
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Science%20%26%20AI-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-4f46e5?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
 
 ---
 
