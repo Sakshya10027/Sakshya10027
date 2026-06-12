@@ -326,7 +326,7 @@ current_focus:
 ---
 
 <p align="center">
-  <i>"The best engineers don't just write code — they shape systems that outlast the sprint, the team, and the era that built them."</i>
+  <i>"The best engineers don't just write code they shape systems that outlast the sprint, the team, and the era that built them."</i>
 </p>
 
 <p align="center">
