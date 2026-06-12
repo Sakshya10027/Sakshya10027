@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sakshyapatel.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sakshyapatel.dev-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://animated-portfolio-tau-nine.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sakshya-patel-20751232a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -335,7 +335,7 @@ current_focus:
   <a href="https://github.com/Sakshya10027" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://sakshyapatel.dev" target="_blank">
+  <a href="https://animated-portfolio-tau-nine.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
