@@ -196,24 +196,6 @@ Engineered responsive, production-ready user interfaces for client-facing web pr
 
 ---
 
-### Tech Lead — Virtual Reality & Gaming Club, VIT Bhopal University
-`[Current]`
-
-Lead technical strategy, team structure, and project delivery for the university's VR & Gaming Club. Responsible for evaluating emerging technologies, mentoring junior developers, and driving cross-disciplinary innovation projects spanning XR development, game engineering, and interactive systems.
-
-- Defined technical roadmaps and sprint structures for active R&D projects
-- Mentored a team of student engineers across Unity, React, and systems programming
-- Curated and delivered technical workshops on VR fundamentals and toolchain setup
-- Represented the club in inter-university technical competitions and exhibitions
-
-<p>
-  <img src="https://img.shields.io/badge/Leadership-6d28d9?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technical%20Mentorship-4f46e5?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/XR%20Development-7c3aed?style=flat-square&logoColor=white" />
-</p>
-
----
 
 
 
