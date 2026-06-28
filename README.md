@@ -217,7 +217,7 @@ Engineered responsive, production-ready user interfaces for client-facing web pr
 ## `$ git log --graph --oneline`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshya10027&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a855f7&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshya10027&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a855f7&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity&v=2" width="100%" />
 </p>
 
 ---
