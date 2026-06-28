@@ -215,26 +215,7 @@ Lead technical strategy, team structure, and project delivery for the university
 
 ---
 
-## `$ cat ./projects.md`
 
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| 🏆 NHAI Hackathon 7.0 | Built NHAIAttend — offline facial recognition attendance for NHAI infrastructure teams |
-| 🛡️ MNNIT Cybersecurity Hackathon 2026 | Developed EchoGuard/SentinelAI — behavioral biometric continuous authentication |
-| 🏦 Suraksha Hackathon — Canara Bank | Engineered behavioral biometrics and document forensics framework for banking security |
-| 📊 Kaggle Competition — Traffic Demand Prediction | Top-tier ensemble model using LightGBM + XGBoost + Optuna; competitive leaderboard ranking |
-| 💡 250+ LeetCode Problems Solved | Consistent algorithmic problem-solving across arrays, graphs, DP, and system design |
-| 🚀 Tourora — Live Product Deployment | Sole engineer; full-stack marketplace live on Render with MongoDB Atlas backend |
-
-</div>
-
----
-
----
-
----
 
 ## `$ ./analytics --github`
 
