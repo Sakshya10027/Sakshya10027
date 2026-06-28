@@ -230,13 +230,7 @@ Lead technical strategy, team structure, and project delivery for the university
 
 ---
 
-## `$ ./trophies --display`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshya10027&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
-</p>
-
----
 
 ## `$ git log --graph --oneline`
 
