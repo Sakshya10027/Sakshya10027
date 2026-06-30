@@ -115,6 +115,25 @@ MuleShield AI addresses one of the most critical unsolved problems in retail ban
 </details>
 
 <details>
+<summary><b>🔷 EMS Platform — Employee Management System</b></summary>
+<br>
+
+> A full-stack HR platform with role-based admin/employee portals, automated attendance tracking, leave management, and dynamic payslip generation — engineered for production deployment.
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | React · Tailwind CSS · Node.js · Express · MongoDB · JWT · bcrypt · Inngest |
+| **Scale** | Multi-role HR system; background job processing for attendance/payroll workflows |
+| **Performance** | Automated attendance tracking; async job handling via Inngest for payslip generation |
+| **Security** | JWT-based authentication; bcrypt password hashing; role-based access control |
+| **Impact** | Full HR lifecycle from onboarding to payroll; live deployment; LinkedIn-featured launch |
+| **Repository** | [View on GitHub →](https://github.com/Sakshya10027/EMS-Platform) |
+
+EMS Platform is a complete HR management system built to handle the full employee lifecycle: role-based portals separate admin and employee experiences, attendance is tracked automatically, leave requests flow through an approval pipeline, and payslips are generated dynamically using background jobs via Inngest. Built on the MERN stack with JWT/bcrypt-secured authentication, the system reflects production-grade thinking around data modeling, access control, and async workflow design. Deployed live at [ems-platform-black.vercel.app](https://ems-platform-black.vercel.app).
+
+</details>
+
+<details>
 <summary><b>🔷 Tourora — Full Stack Travel Marketplace</b></summary>
 <br>
 
@@ -130,25 +149,6 @@ MuleShield AI addresses one of the most critical unsolved problems in retail ban
 | **Repository** | [View on GitHub →](https://github.com/Sakshya10027/tourora) |
 
 Tourora is a full-lifecycle travel marketplace built to production standards. The platform handles user authentication, listing creation, media upload via Cloudinary, and end-to-end booking flows on a MongoDB Atlas backend. Deployed on Render with environment-separated configurations, Tourora demonstrates product-grade full-stack engineering: not just CRUD, but a coherent user experience backed by sound data architecture and deployment discipline.
-
-</details>
-
-<details>
-<summary><b>🔷 NHAIAttend — Offline Facial Recognition Attendance (NHAI Hackathon 7.0)</b></summary>
-<br>
-
-> A React Native mobile application delivering offline-capable facial recognition attendance for National Highway Authority infrastructure teams in remote field environments.
-
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | React Native · DeepFace · Python · FastAPI · SQLite (offline) |
-| **Scale** | Field deployment for infrastructure workforce; offline-first architecture |
-| **Performance** | On-device recognition; no connectivity dependency during capture |
-| **Security** | Liveness detection considerations; local encrypted storage |
-| **Impact** | NHAI Hackathon 7.0 submission; addressing real public infrastructure gaps |
-| **Repository** | [View on GitHub →](https://github.com/Sakshya10027/nhaiattend) |
-
-NHAIAttend solves a practical operational problem for India's highway infrastructure workforce: reliable attendance logging in areas with poor or no internet connectivity. The system performs facial recognition entirely on-device, syncing attendance records to a central backend when connectivity is restored. Built under hackathon conditions, the architecture reflects production thinking — offline-first data model, fallback sync logic, and a React Native interface optimized for field use by non-technical workers.
 
 </details>
 
@@ -196,9 +196,6 @@ Engineered responsive, production-ready user interfaces for client-facing web pr
 
 ---
 
-
-
-
 ## `$ ./analytics --github`
 
 <p align="center">
@@ -211,8 +208,6 @@ Engineered responsive, production-ready user interfaces for client-facing web pr
 </p>
 
 ---
-
-
 
 ## `$ git log --graph --oneline`
 
