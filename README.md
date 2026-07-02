@@ -91,8 +91,6 @@ I approach every system I build with three non-negotiables: **correctness at sca
 
 ---
 
----
-
 ## `$ ls ./featured-projects`
 
 <details>
@@ -199,12 +197,12 @@ Engineered responsive, production-ready user interfaces for client-facing web pr
 ## `$ ./analytics --github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshya10027&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sakshya10027&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=7c3aed&fire=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7c3aed&sideLabels=6d28d9&dates=8b5cf6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshya10027&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd&rank_icon=github&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sakshya10027&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=7c3aed&fire=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7c3aed&sideLabels=6d28d9&dates=8b5cf6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshya10027&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshya10027&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8&cache_seconds=86400" width="40%" />
 </p>
 
 ---
@@ -212,7 +210,7 @@ Engineered responsive, production-ready user interfaces for client-facing web pr
 ## `$ git log --graph --oneline`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshya10027&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a855f7&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity&v=3" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshya10027&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a855f7&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity&v=3&cache_seconds=86400" width="100%" />
 </p>
 
 ---
