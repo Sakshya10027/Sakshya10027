@@ -87,6 +87,16 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 
 ### GitHub Metrics
 
+<!--
+  NOTE: The public github-readme-stats.vercel.app instance is shared by millions
+  of profiles and frequently rate-limits or times out, causing a broken image icon.
+  For reliability, self-host your own instance:
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Deploy the fork to Vercel (free tier, one-click deploy button in that repo's README)
+    3. Replace "github-readme-stats.vercel.app" below with your own Vercel domain,
+       e.g. "your-fork-name.vercel.app"
+-->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sakshya10027&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshya10027&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
