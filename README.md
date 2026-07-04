@@ -85,6 +85,11 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 
 ---
 
+### GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshya10027&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
 
 ---
 
