@@ -79,9 +79,9 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 
 | Project | Tech Stack | Description | Links |
 |---|---|---|---|
-| **SEO Rank Tracker** | `React 19` `Node.js` `MongoDB` `Playwright` `Gemini 2.5 Flash` | AI-powered SEO audit tool with headless scraping and automated ranking insights | [Live Demo](https://seo-rank-tracker-36tu.vercel.app) · [GitHub](#) |
-| **EMS Platform** | `Node.js` `MongoDB` `Inngest` | Full-stack HR management system with RBAC, attendance, leave, and payslip generation | [Live Demo](https://ems-platform-black.vercel.app) · [GitHub](#) |
-| **MuleShield AI** | `Python` `Scikit-learn` `Streamlit` | Fraud detection ML system built for the Bank of India Cybersecurity Hackathon 2026 | [GitHub](#) · [Live Demo](#) |
+| **SEO Rank Tracker** | `React 19` `Node.js` `MongoDB` `Playwright` `Gemini 2.5 Flash` | AI-powered SEO audit tool with headless scraping and automated ranking insights | [Live Demo](https://seo-rank-tracker-36tu.vercel.app) · [GitHub](https://github.com/Sakshya10027/SEO-Rank-Tracker) |
+| **EMS Platform** | `Node.js` `MongoDB` `Inngest` | Full-stack HR management system with RBAC, attendance, leave, and payslip generation | [Live Demo](https://ems-platform-black.vercel.app) · [GitHub](https://github.com/Sakshya10027/EMS-Platform) |
+| **MuleShield AI** | `Python` `Scikit-learn` `Streamlit` | Fraud detection ML system built for the Bank of India Cybersecurity Hackathon 2026 | [GitHub](https://github.com/Sakshya10027/Mule-Sheild) · [Live Demo](https://mule-sheild-ky8ignhwc2zmst8xjotx7c.streamlit.app/) |
 
 ---
 
