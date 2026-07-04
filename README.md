@@ -1,15 +1,18 @@
-<h1 align="center">Hi, I'm Muskan Patel 👋</h1>
+<h1 align="center">Hi, I'm Sakshya 👋</h1>
 
 <p align="center">
-Full-Stack Developer · Mobile App Designer · Cybersecurity Enthusiast
+Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of code and intelligence
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-handle">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:patelmuskanoff@gmail.com">
-    <img src="https://img.shields.io/badge/Email-patelmuskanoff%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-your--email%40example.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://animated-portfolio-tau-nine.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -17,9 +20,10 @@ Full-Stack Developer · Mobile App Designer · Cybersecurity Enthusiast
 
 ### About Me
 
-- 🔭 I'm currently working on **[Project Name / Focus Area — e.g., a full-stack secure web application]**
-- 🌱 I'm currently learning **[Technology / Certification — e.g., Advanced Network Security]**
-- 💡 I'm a Computer Science student passionate about building secure digital products, solving algorithmic challenges, and exploring the world of cybersecurity
+- 🔭 I'm currently working on **SEO Rank Tracker** — an AI-powered SEO audit tool using headless scraping and Gemini 2.5 Flash
+- 🌱 I'm currently learning **[Technology / Concept — e.g., distributed systems, GATE CS 2027 prep]**
+- 🎓 B.Tech Computer Science student at **VIT Bhopal University**
+- 🕹️ Tech Lead at **VIT Bhopal's Virtual Reality & Gaming Club**
 - 🧩 250+ LeetCode problems solved and counting
 - ⚡ Fun fact: **[Your fun fact here]**
 
@@ -32,7 +36,7 @@ Full-Stack Developer · Mobile App Designer · Cybersecurity Enthusiast
 <p>
   <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-EJS-000000?style=flat-square&logo=ejs&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt=""/>
   <!-- Add more: Next.js, HTML5, CSS3, etc. -->
 </p>
@@ -43,28 +47,30 @@ Full-Stack Developer · Mobile App Designer · Cybersecurity Enthusiast
   <img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt=""/>
-  <!-- Add more: MySQL, Firebase, Prisma, etc. -->
+  <img src="https://img.shields.io/badge/-Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white" alt=""/>
+  <!-- Add more: PostgreSQL, Prisma, Passport.js, etc. -->
 </p>
 
-**Mobile Development**
+**AI / ML**
 
 <p>
-  <img src="https://img.shields.io/badge/-React_Native-000000?style=flat-square&logo=react&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" alt=""/>
-  <!-- Add more: Swift, Android Studio, etc. -->
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Gemini_API-000000?style=flat-square&logo=googlegemini&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-MediaPipe-000000?style=flat-square&logo=google&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" alt=""/>
+  <!-- Add more: TensorFlow, XGBoost, LightGBM, etc. -->
 </p>
 
-**Cybersecurity / Tools**
+**Tools & Platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/-Wireshark-000000?style=flat-square&logo=wireshark&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/-Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Jenkins-000000?style=flat-square&logo=jenkins&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman&logoColor=white" alt=""/>
-  <!-- Add more: Nmap, Metasploit, Docker, etc. -->
+  <!-- Add more: Grafana, Playwright, Vercel, etc. -->
 </p>
 
 ---
@@ -73,17 +79,17 @@ Full-Stack Developer · Mobile App Designer · Cybersecurity Enthusiast
 
 | Project | Tech Stack | Description | Links |
 |---|---|---|---|
-| **CampusSync** | `Next.js` `Supabase` `Prisma` | *[One-line description of what CampusSync does]* | [GitHub](#) · [Live Demo](#) |
-| **Gamiecon** | `React` `Node.js` `Socket.IO` | *[One-line description of what Gamiecon does]* | [GitHub](#) · [Live Demo](#) |
-| **Airbnb Clone** | `Node.js` `Express` `MongoDB` `EJS` | *[One-line description of what Airbnb Clone does]* | [GitHub](#) · [Live Demo](#) |
+| **SEO Rank Tracker** | `React 19` `Node.js` `MongoDB` `Playwright` `Gemini 2.5 Flash` | AI-powered SEO audit tool with headless scraping and automated ranking insights | [Live Demo](https://seo-rank-tracker-36tu.vercel.app) · [GitHub](#) |
+| **EMS Platform** | `Node.js` `MongoDB` `Inngest` | Full-stack HR management system with RBAC, attendance, leave, and payslip generation | [Live Demo](https://ems-platform-black.vercel.app) · [GitHub](#) |
+| **MuleShield AI** | `Python` `Scikit-learn` `Streamlit` | Fraud detection ML system built for the Bank of India Cybersecurity Hackathon 2026 | [GitHub](#) · [Live Demo](#) |
 
 ---
 
 ### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshya10027&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshya10027&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
@@ -95,15 +101,14 @@ Full-Stack Developer · Mobile App Designer · Cybersecurity Enthusiast
 <p>
   <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt=""/>
   <!-- Add more: GeeksforGeeks, CodeChef, etc. -->
 </p>
 
-**Certifications**
+**In Progress / Planned**
 
-- 🎓 **[Certification Name]** — *In Progress / Completed*
-- 🎓 **CompTIA Security+** — *Planned*
-- 🎓 **TCM Security — Practical Ethical Hacking** — *Planned*
+- 🎯 **GATE CS 2027** — preparing across Engineering Mathematics, DSA, OS, and COA
+- 🎓 **[Certification Name]** — *Planned*
 
 ---
 
