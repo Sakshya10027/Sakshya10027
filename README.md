@@ -1,107 +1,97 @@
 <div align="center">
 
-# ⚡ SAKSHYA
+<h1>Hi, I'm Sakshya 👋</h1>
+<p>Full-Stack Engineer & AI/ML Practitioner · B.Tech CSE, VIT Bhopal</p>
 
-### `full-stack engineer · ai/ml practitioner · b.tech cse @ vit bhopal`
-
-<img src="https://img.shields.io/badge/status-shipping-8A2BE2?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/focus-full--stack%20%26%20ml-8A2BE2?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/based%20in-lucknow%2C%20india-8A2BE2?style=for-the-badge&labelColor=0d0d0d" />
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=flat-square&logoColor=8A2BE2)](https://animated-portfolio-tau-nine.vercel.app)
-[![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=flat-square&logo=github&logoColor=8A2BE2)](https://github.com/Sakshya10027)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-0d0d0d?style=flat-square&logo=leetcode&logoColor=8A2BE2)](https://leetcode.com)
+<a href="https://animated-portfolio-tau-nine.vercel.app">Portfolio</a> ·
+<a href="https://linkedin.com/in/sakshya10027">LinkedIn</a> ·
+<a href="mailto:youremail@example.com">Email</a>
 
 </div>
 
----
+<br/>
 
-## 01 — whoami
+## About
 
-```txt
-> Tech Lead, Virtual Reality & Gaming Club — VIT Bhopal
-> Front-End Developer Intern — Uptricks
-> 250+ LeetCode problems solved
-> 18 public repos, most shipped and deployed within the last 3 months
-> Currently building: hackathon-grade full-stack + ML tools, fast
-```
+I'm a B.Tech Computer Science student at VIT Bhopal (CGPA 8.22), based in Lucknow, India. I work across the full stack and dabble heavily in AI/ML — most of my projects pair a production-style web app with some kind of intelligent layer (LLM-powered analysis, fraud detection, pose estimation).
 
----
+- 🎓 B.Tech CSE, VIT Bhopal University
+- 🕹️ Tech Lead, Virtual Reality & Gaming Club, VIT Bhopal
+- 💼 Front-End Developer Intern, Uptricks
+- 🧩 250+ LeetCode problems solved
+- 🎯 Preparing for GATE CS 2027
 
-## 02 — featured builds
+<br/>
 
-| Project | What it does | Stack | Live |
-|---|---|---|---|
-| **[SEO Rank Tracker](https://github.com/Sakshya10027/SEO-Rank-Tracker)** | Full-stack SEO monitoring tool — headless keyword rank tracking + AI-generated audits | Playwright/Browserbase, Gemini 2.5 Flash, MongoDB, React 19, Node.js | [seo-rank-tracker-36tu.vercel.app](https://seo-rank-tracker-36tu.vercel.app) |
-| **[MuleShield AI](https://github.com/Sakshya10027/Mule-Sheild)** | Fraud/mule-account detection ML system — built for Bank of India Cybersecurity Hackathon 2026 | Python, scikit-learn, Streamlit | [Live app](https://mule-sheild-ky8ignhwc2zmst8xjotx7c.streamlit.app) |
-| **[EMS Platform](https://github.com/Sakshya10027/EMS-Platform)** | Full-stack HR system — RBAC, attendance, leave, payslip generation, background jobs | React, Node.js, Express, MongoDB, Inngest | [ems-platform-black.vercel.app](https://ems-platform-black.vercel.app) |
-| **[Tourora](https://github.com/Sakshya10027/Tourora)** | Airbnb-style travel marketplace | Node.js, Express, MongoDB, EJS, Passport.js, Cloudinary | [tourora-7dot.onrender.com](https://tourora-7dot.onrender.com) |
-| **[TaskZen](https://github.com/Sakshya10027/TaskZen)** | Real-time task manager with gamified XP system | Socket.IO, JWT, Google OAuth | [task-zen-three.vercel.app](https://task-zen-three.vercel.app) |
-| **[SentiAI](https://github.com/Sakshya10027/SentiAI)** | Hackathon site for a behavioral-biometric authentication concept | JavaScript | — |
-| **[CampusSync](https://github.com/Sakshya10027/CampusSync)** | Student coordination platform | Next.js 14, Supabase, Prisma, NextAuth | — |
-| **[DevOps Pipeline](https://github.com/Sakshya10027/24BCY10027-DevOps-Project)** | Corporate website deployed through a full CI/CD pipeline | Jenkins, Docker, Kubernetes, Nagios, Grafana | — |
+## Projects
 
----
+**[SEO Rank Tracker](https://github.com/Sakshya10027/SEO-Rank-Tracker)**
+Full-stack SEO monitoring tool with headless keyword rank tracking and AI-generated audits.
+`React 19` `Node.js` `MongoDB` `Playwright/Browserbase` `Gemini 2.5 Flash`
+[Live](https://seo-rank-tracker-36tu.vercel.app)
 
-## 03 — system map
+**[EMS Platform](https://github.com/Sakshya10027/EMS-Platform)**
+Full-stack employee management system — RBAC, attendance, leave, payslip generation, background jobs.
+`React` `Node.js` `Express` `MongoDB` `Inngest`
+[Live](https://ems-platform-black.vercel.app)
 
-```mermaid
-flowchart LR
-    A[Frontend<br/>React / Next.js] --> B[Backend<br/>Node.js / Express]
-    B --> C[(MongoDB / Supabase)]
-    B --> D[AI Layer<br/>Gemini · scikit-learn]
-    B --> E[Automation<br/>Playwright · Inngest]
-    F[DevOps<br/>Jenkins · Docker · K8s] --> B
-```
+**[MuleShield AI](https://github.com/Sakshya10027/Mule-Sheild)**
+Fraud/mule-account detection ML model, built for the Bank of India Cybersecurity Hackathon 2026.
+`Python` `scikit-learn` `Streamlit`
+[Live](https://mule-sheild-ky8ignhwc2zmst8xjotx7c.streamlit.app)
 
----
+**[Tourora](https://github.com/Sakshya10027/Tourora)**
+Airbnb-style travel marketplace with image uploads and auth.
+`Node.js` `Express` `MongoDB` `EJS` `Passport.js` `Cloudinary`
+[Live](https://tourora-7dot.onrender.com)
 
-## 04 — github telemetry
+**[TaskZen](https://github.com/Sakshya10027/TaskZen)**
+Real-time task manager with XP-based gamification.
+`Socket.IO` `JWT` `Google OAuth`
+[Live](https://task-zen-three.vercel.app)
+
+**[CampusSync](https://github.com/Sakshya10027/CampusSync)**
+Student coordination platform.
+`Next.js 14` `Supabase` `Prisma` `NextAuth`
+
+**[DevOps Pipeline](https://github.com/Sakshya10027/24BCY10027-DevOps-Project)**
+Corporate website deployed through a full Jenkins → Docker → Kubernetes pipeline, monitored with Nagios and Grafana.
+
+More on [GitHub →](https://github.com/Sakshya10027?tab=repositories)
+
+<br/>
+
+## Stack
+
+**Languages** — TypeScript, JavaScript, Python, C++
+**Frontend** — React, Next.js, Tailwind CSS
+**Backend** — Node.js, Express, FastAPI
+**Data** — MongoDB, PostgreSQL, Supabase, Prisma
+**AI/ML** — scikit-learn, MediaPipe, Gemini API, Streamlit
+**DevOps** — Docker, Kubernetes, Jenkins, Grafana
+**Tools** — Git, Vercel, Render, Postman
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshya10027&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9c9c9&border_color=8A2BE2&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshya10027&layout=compact&theme=radical&bg_color=0d0d0d&title_color=8A2BE2&text_color=c9c9c9&border_color=8A2BE2&hide_border=false" width="42%" />
-
-<img src="https://streak-stats.demolab.com/?user=Sakshya10027&theme=radical&background=0d0d0d&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&border=8A2BE2" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshya10027&bg_color=0d0d0d&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshya10027&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshya10027&layout=compact&theme=default&hide_border=true" width="35%" />
 
 </div>
 
----
+<br/>
 
-## 05 — stack
+## Currently
 
-<div align="center">
+- Refining **FormCoach**, an AI-powered sports injury prevention app using MediaPipe Pose, for hackathon submission
+- Standardizing documentation across all repos
+- Studying for GATE CS 2027
 
-![React](https://img.shields.io/badge/-React-0d0d0d?style=flat-square&logo=react&logoColor=8A2BE2)
-![Next.js](https://img.shields.io/badge/-Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=8A2BE2)
-![Node.js](https://img.shields.io/badge/-Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=8A2BE2)
-![Express](https://img.shields.io/badge/-Express-0d0d0d?style=flat-square&logo=express&logoColor=8A2BE2)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=8A2BE2)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=8A2BE2)
-![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=8A2BE2)
-![C++](https://img.shields.io/badge/-C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=8A2BE2)
-![Docker](https://img.shields.io/badge/-Docker-0d0d0d?style=flat-square&logo=docker&logoColor=8A2BE2)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d0d0d?style=flat-square&logo=kubernetes&logoColor=8A2BE2)
-![Jenkins](https://img.shields.io/badge/-Jenkins-0d0d0d?style=flat-square&logo=jenkins&logoColor=8A2BE2)
-![Vercel](https://img.shields.io/badge/-Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=8A2BE2)
-
-</div>
-
----
-
-## 06 — currently
-
-```txt
-> Refining FormCoach for hackathon submission (MediaPipe Pose, injury prevention)
-> Standardizing READMEs across all repos with mermaid-heavy documentation
-> Prepping for GATE CS 2027
-```
+<br/>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sakshya10027&label=PROFILE+VIEWS&color=8A2BE2&style=flat-square" />
-
+<sub>Lucknow, India</sub>
 </div>
