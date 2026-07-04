@@ -104,21 +104,11 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 
 ---
 
-### Coding Profiles & Certifications
+### Contribution Graph
 
-**Coding Profiles**
-
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt=""/>
-  <!-- Add more: GeeksforGeeks, CodeChef, etc. -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshya10027&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="100%"/>
 </p>
-
-**In Progress / Planned**
-
-- 🎯 **GATE CS 2027** — preparing across Engineering Mathematics, DSA, OS, and COA
-- 🎓 **[Certification Name]** — *Planned*
 
 ---
 
