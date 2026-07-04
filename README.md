@@ -5,10 +5,10 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle">
+  <a href="https://www.linkedin.com/in/sakshya-patel-20751232a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:patelsakshya2@gmail.com">
     <img src="https://img.shields.io/badge/Email-your--email%40example.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://animated-portfolio-tau-nine.vercel.app">
