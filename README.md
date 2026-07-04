@@ -1,97 +1,110 @@
-<div align="center">
+<h1 align="center">Hi, I'm Muskan Patel 👋</h1>
 
-<h1>Hi, I'm Sakshya 👋</h1>
-<p>Full-Stack Engineer & AI/ML Practitioner · B.Tech CSE, VIT Bhopal</p>
+<p align="center">
+Full-Stack Developer · Mobile App Designer · Cybersecurity Enthusiast
+</p>
 
-<a href="https://animated-portfolio-tau-nine.vercel.app">Portfolio</a> ·
-<a href="https://linkedin.com/in/sakshya10027">LinkedIn</a> ·
-<a href="mailto:youremail@example.com">Email</a>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:patelmuskanoff@gmail.com">
+    <img src="https://img.shields.io/badge/Email-patelmuskanoff%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-</div>
+---
 
-<br/>
+### About Me
 
-## About
+- 🔭 I'm currently working on **[Project Name / Focus Area — e.g., a full-stack secure web application]**
+- 🌱 I'm currently learning **[Technology / Certification — e.g., Advanced Network Security]**
+- 💡 I'm a Computer Science student passionate about building secure digital products, solving algorithmic challenges, and exploring the world of cybersecurity
+- 🧩 250+ LeetCode problems solved and counting
+- ⚡ Fun fact: **[Your fun fact here]**
 
-I'm a B.Tech Computer Science student at VIT Bhopal (CGPA 8.22), based in Lucknow, India. I work across the full stack and dabble heavily in AI/ML — most of my projects pair a production-style web app with some kind of intelligent layer (LLM-powered analysis, fraud detection, pose estimation).
+---
 
-- 🎓 B.Tech CSE, VIT Bhopal University
-- 🕹️ Tech Lead, Virtual Reality & Gaming Club, VIT Bhopal
-- 💼 Front-End Developer Intern, Uptricks
-- 🧩 250+ LeetCode problems solved
-- 🎯 Preparing for GATE CS 2027
+### Tech Stack & Tools
 
-<br/>
+**Frontend**
 
-## Projects
+<p>
+  <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt=""/>
+  <!-- Add more: Next.js, HTML5, CSS3, etc. -->
+</p>
 
-**[SEO Rank Tracker](https://github.com/Sakshya10027/SEO-Rank-Tracker)**
-Full-stack SEO monitoring tool with headless keyword rank tracking and AI-generated audits.
-`React 19` `Node.js` `MongoDB` `Playwright/Browserbase` `Gemini 2.5 Flash`
-[Live](https://seo-rank-tracker-36tu.vercel.app)
+**Backend / Database**
 
-**[EMS Platform](https://github.com/Sakshya10027/EMS-Platform)**
-Full-stack employee management system — RBAC, attendance, leave, payslip generation, background jobs.
-`React` `Node.js` `Express` `MongoDB` `Inngest`
-[Live](https://ems-platform-black.vercel.app)
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt=""/>
+  <!-- Add more: MySQL, Firebase, Prisma, etc. -->
+</p>
 
-**[MuleShield AI](https://github.com/Sakshya10027/Mule-Sheild)**
-Fraud/mule-account detection ML model, built for the Bank of India Cybersecurity Hackathon 2026.
-`Python` `scikit-learn` `Streamlit`
-[Live](https://mule-sheild-ky8ignhwc2zmst8xjotx7c.streamlit.app)
+**Mobile Development**
 
-**[Tourora](https://github.com/Sakshya10027/Tourora)**
-Airbnb-style travel marketplace with image uploads and auth.
-`Node.js` `Express` `MongoDB` `EJS` `Passport.js` `Cloudinary`
-[Live](https://tourora-7dot.onrender.com)
+<p>
+  <img src="https://img.shields.io/badge/-React_Native-000000?style=flat-square&logo=react&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" alt=""/>
+  <!-- Add more: Swift, Android Studio, etc. -->
+</p>
 
-**[TaskZen](https://github.com/Sakshya10027/TaskZen)**
-Real-time task manager with XP-based gamification.
-`Socket.IO` `JWT` `Google OAuth`
-[Live](https://task-zen-three.vercel.app)
+**Cybersecurity / Tools**
 
-**[CampusSync](https://github.com/Sakshya10027/CampusSync)**
-Student coordination platform.
-`Next.js 14` `Supabase` `Prisma` `NextAuth`
+<p>
+  <img src="https://img.shields.io/badge/-Wireshark-000000?style=flat-square&logo=wireshark&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman&logoColor=white" alt=""/>
+  <!-- Add more: Nmap, Metasploit, Docker, etc. -->
+</p>
 
-**[DevOps Pipeline](https://github.com/Sakshya10027/24BCY10027-DevOps-Project)**
-Corporate website deployed through a full Jenkins → Docker → Kubernetes pipeline, monitored with Nagios and Grafana.
+---
 
-More on [GitHub →](https://github.com/Sakshya10027?tab=repositories)
+### Featured Projects
 
-<br/>
+| Project | Tech Stack | Description | Links |
+|---|---|---|---|
+| **CampusSync** | `Next.js` `Supabase` `Prisma` | *[One-line description of what CampusSync does]* | [GitHub](#) · [Live Demo](#) |
+| **Gamiecon** | `React` `Node.js` `Socket.IO` | *[One-line description of what Gamiecon does]* | [GitHub](#) · [Live Demo](#) |
+| **Airbnb Clone** | `Node.js` `Express` `MongoDB` `EJS` | *[One-line description of what Airbnb Clone does]* | [GitHub](#) · [Live Demo](#) |
 
-## Stack
+---
 
-**Languages** — TypeScript, JavaScript, Python, C++
-**Frontend** — React, Next.js, Tailwind CSS
-**Backend** — Node.js, Express, FastAPI
-**Data** — MongoDB, PostgreSQL, Supabase, Prisma
-**AI/ML** — scikit-learn, MediaPipe, Gemini API, Streamlit
-**DevOps** — Docker, Kubernetes, Jenkins, Grafana
-**Tools** — Git, Vercel, Render, Postman
+### GitHub Metrics
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
 
-## GitHub Stats
+---
 
-<div align="center">
+### Coding Profiles & Certifications
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshya10027&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshya10027&layout=compact&theme=default&hide_border=true" width="35%" />
+**Coding Profiles**
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white" alt=""/>
+  <!-- Add more: GeeksforGeeks, CodeChef, etc. -->
+</p>
 
-<br/>
+**Certifications**
 
-## Currently
+- 🎓 **[Certification Name]** — *In Progress / Completed*
+- 🎓 **CompTIA Security+** — *Planned*
+- 🎓 **TCM Security — Practical Ethical Hacking** — *Planned*
 
-- Refining **FormCoach**, an AI-powered sports injury prevention app using MediaPipe Pose, for hackathon submission
-- Standardizing documentation across all repos
-- Studying for GATE CS 2027
+---
 
-<br/>
-
-<div align="center">
-<sub>Lucknow, India</sub>
-</div>
+<p align="center"><i>Thanks for stopping by — always open to connect and collaborate.</i></p>
