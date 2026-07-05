@@ -20,12 +20,12 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 
 ### About Me
 
-- 🔭 I'm currently working on **SEO Rank Tracker** — an AI-powered SEO audit tool using headless scraping and Gemini 2.5 Flash
-- 🌱 I'm currently learning **[Technology / Concept — e.g., distributed systems, GATE CS 2027 prep]**
-- 🎓 B.Tech Computer Science student at **VIT Bhopal University**
-- 🕹️ Tech Lead at **VIT Bhopal's Virtual Reality & Gaming Club**
-- 🧩 250+ LeetCode problems solved and counting
-- ⚡ Fun fact: **[Your fun fact here]**
+-  I'm currently working on **SEO Rank Tracker** — an AI-powered SEO audit tool using headless scraping and Gemini 2.5 Flash
+-  I'm currently learning **[Technology / Concept — e.g., distributed systems, GATE CS 2027 prep]**
+-  B.Tech Computer Science student at **VIT Bhopal University**
+-  Tech Lead at **VIT Bhopal's Virtual Reality & Gaming Club**
+-  250+ LeetCode problems solved and counting
+-  Fun fact: **[Your fun fact here]**
 
 ---
 
