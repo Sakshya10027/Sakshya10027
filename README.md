@@ -25,7 +25,7 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 -  B.Tech Computer Science student at **VIT Bhopal University**
 -  Core Member at **VIT Bhopal's Virtual Reality & Gaming Club**
 -  250+ LeetCode problems solved and counting
--  Fun fact: **[Your fun fact here]**
+-  Fun fact: **I Love To Rage Bait**
 
 ---
 
