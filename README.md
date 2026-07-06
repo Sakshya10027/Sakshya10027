@@ -101,4 +101,4 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 
 ---
 
-<p align="center"><i>Thanks for stopping by — always open to connect and collaborate.</i></p>
+<p align="center"><i>Thanks for stopping by always open to connect and collaborate.</i></p>
