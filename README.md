@@ -88,6 +88,10 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 ### GitHub Metrics
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Sakshya10027&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" width="48%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshya10027&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sakshya10027&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&hide_border=true" alt="Top Languages" width="38%"/>
 </p>
