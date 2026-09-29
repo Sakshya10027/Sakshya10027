@@ -101,7 +101,7 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshya10027&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/Sakshya10027" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
