@@ -98,11 +98,7 @@ Full-Stack Engineer · AI/ML Practitioner · Building at the intersection of cod
 
 ---
 
-### Contribution Graph
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/Sakshya10027" alt="Contribution Graph" width="100%"/>
-</p>
 
 ---
 
